@@ -1,0 +1,1 @@
+To understand and troubleshoot issues related to the Naza flight controller and receiver in drones, including checking connections with the ESC and PMU, identifying physical damage, and using LED indicators for diagnosis.
