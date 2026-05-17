@@ -1,8 +1,6 @@
-# Theory
-
 Drones rely on several interconnected components to ensure smooth operation and flight stability. The Naza flight controller plays a crucial role in managing these components, ensuring stable and reliable flight control. This experiment focuses on diagnosing and resolving issues related to the Naza flight controller and the receiver by checking connections, detecting physical damage, and utilizing LED indicators for troubleshooting.
 
-## Components Involved
+### Components Involved
 
 ### 1. **Naza Flight Controller**
 
@@ -70,7 +68,7 @@ Drones rely on several interconnected components to ensure smooth operation and 
   * Solid Green: System functioning normally.
   * Alternating colors: Calibration required.
 
-## Troubleshooting Approach
+### Troubleshooting Approach
 
 1. **Physical Inspection:** Examine for visible damage such as burnt circuits, broken wires, or loose connectors.
 2. **Connection Verification:** Ensure proper wiring between the flight controller, receiver, ESCs, and PMU.

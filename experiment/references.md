@@ -1,4 +1,3 @@
-# References
 1. Drone Theory and Maintenance Handbook – John Doe, 2nd Edition.  
 2. DJI Naza Flight Controller User Manual, available at [DJI Official Website](https://www.dji.com).  
 3. UAV Maintenance and Repair Guide – Technical Publications.  
