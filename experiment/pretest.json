@@ -11,7 +11,7 @@
       },
       "explanations": {},
       "correctAnswer": "a",
-      "difficulty": "intermediate"
+      "difficulty": "beginner"
     },
     {
       "question": "2. How do you identify if the flight controller is not receiving power?",
@@ -23,7 +23,7 @@
       },
       "explanations": {},
       "correctAnswer": "a",
-      "difficulty": "intermediate"
+      "difficulty": "beginner"
     },
     {
       "question": "3. What is the first thing to check when diagnosing receiver issues in a drone?",
@@ -35,7 +35,7 @@
       },
       "explanations": {},
       "correctAnswer": "b",
-      "difficulty": "intermediate"
+      "difficulty": "beginner"
     },
     {
       "question": "4. What should you do if you find physical damage on the flight controller?",
@@ -47,7 +47,7 @@
       },
       "explanations": {},
       "correctAnswer": "b",
-      "difficulty": "advanced"
+      "difficulty": "beginner"
     },
     {
       "question": "5. Why is it important to check the receiver's connections with the PMU and ESC?",
@@ -59,7 +59,7 @@
       },
       "explanations": {},
       "correctAnswer": "a",
-      "difficulty": "advanced"
+      "difficulty": "beginner"
     }
   ]
 }

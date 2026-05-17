@@ -1,27 +1,38 @@
-# Procedure
-1. **Preliminary Inspection:**  
-   - Ensure the drone is powered off before handling.  
-   - Visually inspect the flight controller and receiver for any visible physical damage.  
+### Flight Controller Issues
 
-2. **Connection Checks:**  
-   - Verify the wiring connections between the flight controller, ESC, and PMU.  
-   - Ensure proper alignment of connectors and secure attachment.  
+#### Check Physical Damage
+#### Steps
+- Disconnect the drone from the power source by unplugging the **dean plug**.  
+- Remove the **GPS**, **battery**, and **upper plate** to access the flight controller.  
+- Drag the **LED** near the flight controller and connect the battery to power it.  
+- Observe the LED indicator — a **stable green light** confirms no physical damage.  
+- If the LED is not blinking or stable, the flight controller is damaged and must be **replaced**.  
 
-3. **LED Indicator Analysis:**  
-   - Power on the drone and observe the LED signals on the flight controller.  
-   - Identify any abnormal blinking patterns or error codes.  
 
-4. **Testing with Remote Control:**  
-   - Check if the receiver is properly responding to remote control inputs.  
-   - Ensure correct binding between the transmitter and receiver.  
+#### Check Connections
+#### Steps
+- Disconnect the drone from the power source by unplugging the **dean plug**.  
+- Remove the **GPS**, **battery**, and **upper plate** to access the internal wiring.  
+- Cross-verify the wiring between the **flight controller and PMU** using the reference table.  
+- Cross-verify the **ESC signal wire connections** to the flight controller using the reference table.  
+- Reconnect any loose or incorrect wires as per the correct connection diagram.  
 
-5. **Multimeter Testing:**  
-   - Use a multimeter to check voltage levels at different connection points.  
-   - Confirm that power is reaching the flight controller and receiver correctly.  
+---
 
-6. **Component Replacement:**  
-   - If a component is found faulty, replace it with a new one.  
-   - Re-test the system to ensure functionality.  
+### Receiver Issues
 
-7. **Final Testing:**  
-   - Power on the drone and conduct a test flight to verify all systems are operational.  
+#### Check Physical Damage
+#### Steps
+- Click on the **Receiver** to zoom in and inspect it.  
+- Connect the **dean plug** to supply power to the receiver.  
+- Observe the LED indicator — a **stable blinking red light** confirms the receiver is not physically damaged and is receiving signal from the transmitter.  
+- If the LED is not blinking, the receiver is damaged and must be **replaced**.  
+
+
+#### Check Connections
+#### Steps
+- Disconnect the drone from the power source by unplugging the **dean plug**.  
+- Remove the **GPS**, **battery**, and **upper plate** to access the receiver's wiring.  
+- Zoom in on the receiver's connection area.  
+- Cross-verify the wiring between the **Receiver and the flight controller** using the reference table.  
+- Reconnect any loose or incorrect wires as per the correct connection diagram.

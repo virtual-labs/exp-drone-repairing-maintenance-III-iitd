@@ -11,7 +11,7 @@
       },
       "explanations": {},
       "correctAnswer": "c",
-      "difficulty": "intermediate"
+      "difficulty": "beginner"
     },
     {
       "question": "2. What is the next step if you find loose connections between the receiver and PMU?",
@@ -23,7 +23,7 @@
       },
       "explanations": {},
       "correctAnswer": "a",
-      "difficulty": "advanced"
+      "difficulty": "beginner"
     },
     {
       "question": "3. What should you do if the receiver is not responding?",
@@ -35,7 +35,7 @@
       },
       "explanations": {},
       "correctAnswer": "b",
-      "difficulty": "advanced"
+      "difficulty": "beginner"
     },
     {
       "question": "4. How can you check the health of a flight controller during troubleshooting?",
@@ -47,7 +47,7 @@
       },
       "explanations": {},
       "correctAnswer": "a",
-      "difficulty": "intermediate"
+      "difficulty": "beginner"
     },
     {
       "question": "5. What should you do if you notice physical damage on the receiver?",
@@ -59,7 +59,7 @@
       },
       "explanations": {},
       "correctAnswer": "c",
-      "difficulty": "advanced"
+      "difficulty": "beginner"
     }
   ]
 }
